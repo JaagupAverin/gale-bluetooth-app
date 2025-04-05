@@ -1,1 +1,1 @@
-# gale-sensor-app
+Example application for the Zephyr demo "Gale". 
