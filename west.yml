@@ -2,7 +2,7 @@ manifest:
   version: "1.2"
 
   self:
-    path: hmi_app
+    path: gale_hmi_app
 
   remotes:
     - name: origin
@@ -10,7 +10,7 @@ manifest:
 
   projects:
     - name: gale-shared
-      path: shared
+      path: gale_shared
       remote: origin
       revision: main
       import: true
